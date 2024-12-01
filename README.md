@@ -12,6 +12,14 @@ You need Python 3.11 to run this, as all of the code was made in 3.11
 
 
 
+
+
+
+
+
+
+
+
 To use the Matrix Browser, you need Git. It can be downloaded at https://git-scm.com/
 You also need python 3.11. No other version will work. Python can be downloaded at https://www.python.org/downloads/release/python-3110/ or via the Microsoft Store.
 
