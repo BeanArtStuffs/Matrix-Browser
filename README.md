@@ -37,7 +37,7 @@ You also need python 3.11. No other version will work. Python can be downloaded 
 
 
 
-What you need to do after downloading the zip is to run the 'Patcher' batch file. 
+What you need to do after downloading the zip is to run the 'Patcher' batch file. Then choose the first option. 
 
 Once all of those installs are done, it should close on its own. If it doesnt, just close it. 
 Then, MATRIX should work! If it doesnt it could be my human error, or that you installed something wrong!
