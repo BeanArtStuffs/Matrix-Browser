@@ -1,7 +1,7 @@
 # MATRIX-Browser
 Hello! I don't really know why you'd want a browser that looks like the MATRIX (Not even) but alas, you're here. One thing to mention though, this is by no means a serious project or endorsed by literally anyone execpt me and MAYBE 1 other person. But without further ado, here are your instructions!
 
-**DEPENDANCIES**
+**DEPENDENCIES**
 
 Before installing (preferably) anything in this little project, I would like to advise you to not be alarmed once you try and run the Manager, and get slapped with a Windows Defender popup. Still dont know why it does that...
 
